@@ -26,5 +26,5 @@ Olá, tenho 21 anos, sou do Rio de Janeiro e gosto bastante de programação, mu
 <p> 📃Estudo programação pela Alura; </p>
 <p> 💻Faço faculdade de Ciencia da computação na Estácio; </p>
 <p> 🐒Gosto de trabalhar com a parte do back-end mas não me incomodo de mexer com o front;</p>
-<p> 📚Atualmente estou me aprofundando em Python e SQL;</p>
+<p> 📚Atualmente estou me aprofundando em Full Stack;</p>
 <p> 🎮O melhor Silent Hill é o 3 e nada me faz pensar diferente :p</p>
