@@ -6,7 +6,7 @@
 </div><br><br><br>
 
 ## Bem vindo ao meu perfil GitHub 👋
-Olá, tenho 21 anos, sou do Rio de Janeiro e gosto bastante de programação, musicas e jogos. Sou um explorador no vasto universo da programação, especialista em criar bugs inovadores, e quanto mais aprendo (e me estresso), mais me apaixono por essa jornada! 🚀
+Olá, tenho 22 anos, sou do Rio de Janeiro e gosto bastante de programação, musicas e jogos. Sou um explorador no vasto universo da programação, especialista em criar bugs inovadores, e quanto mais aprendo (e me estresso), mais me apaixono por essa jornada! 🚀
 <div align="center">
   <img src="https://i.gifer.com/PLiW.gif" alt="Gif animado" />
 </div>
